@@ -148,7 +148,7 @@ blockquote#bqtwo{
   quotes: "\201C""\201D""\2018""\2019";
   display: inline;
   position: relative; top: -40px;
-  font-size: 22px
+  font-size: 22px;
 }
 
 #courtesy{
