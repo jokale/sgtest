@@ -161,14 +161,14 @@ blockquote#bqtwo{
 
 #imagetwo{
   position: relative; top: -220px;
-  width: 840px;
+  max-width: 60%;
   height: auto;
   object-fit: scale-down;
 }
 
 #imagethree{
   position: relative; top: -120px;
-  width: 840px;
+  max-width: 60%;
   height: auto;
   object-fit: scale-down;
 }
@@ -176,14 +176,14 @@ blockquote#bqtwo{
 
 img#imagefour{
   position: relative; top: -70px;
-  width: 840px;
+  max-width: 60%;
   height: auto;
   object-fit: scale-down;
 }
 
 img#imagefive{
   position: relative; top: -10px;
-  width: 840px;
+  max-width: 60%;
   height: auto;
   object-fit: scale-down;
 }
